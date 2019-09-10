@@ -1,5 +1,5 @@
 """
-Return the number of compatible people
+Returns the number of compatible people
 """
 
 #variables for population
