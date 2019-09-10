@@ -2,12 +2,12 @@
 ===================
 
 
-#### Coding and testing a fun paper
+#### Just a little fun
 ------------------------------------------------------------------------
 
 **Paper:** *Why I don't have a girlfriend: An application of the Drake Equation to love it the UK.*
 
-**Abstract:** The Drake equation is used to estimate the number of highly evolved civilizations that might exist in our galaxy. 
+**Abstract:** The Drake equation is used to estimate the number of highly evolved civilizations that might exist in our galaxy. A fun application to find the amount of compatible pairs.
 
 ----------
 
