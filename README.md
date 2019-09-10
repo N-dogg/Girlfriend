@@ -2,7 +2,7 @@
 ===================
 
 
-####Coding and testing a fun paper
+#### Coding and testing a fun paper
 ------------------------------------------------------------------------
 
 **Paper:** *Why I don't have a girlfriend: An application of the Drake Equation to love it the UK.*
@@ -32,18 +32,18 @@ Process
 -------------
 Enter your country demographics and preferences into the variables.
 
-**Initial Variables**
-**Population:** population of the country
-**Gender:** percentage of the population you find attractive with regards to gender
-**Location:** population in region/city
-**Age:** percentage of the population you find attractive with regards to age
-**Education:** percentage of the population you find attractive with regards to education level
-**Attractive:** percentage estimate of the population you find attractive
+**Initial Variables**  
+**Population:** population of the country  
+**Gender:** percentage of the population you find attractive with regards to gender  
+**Location:** population in region/city  
+**Age:** percentage of the population you find attractive with regards to age  
+**Education:** percentage of the population you find attractive with regards to education level  
+**Attractive:** percentage estimate of the population you find attractive  
 
-**Additional Variables**
-**Reciprocal:** percentage estimate that find you attractive
-**Single:** percentage estimate of availability
-**Match:** percentage estimate of people you would match with if things really got hot ;)
+**Additional Variables**  
+**Reciprocal:** percentage estimate that find you attractive  
+**Single:** percentage estimate of availability  
+**Match:** percentage estimate of people you would match with if things really got hot ;)  
 
 
 ----------
